@@ -1,3 +1,6 @@
+/*
+Nome: Yuri Dinato da Silva
+*/
 console.clear();
 
 const teclado = require (`prompt-sync`)();
